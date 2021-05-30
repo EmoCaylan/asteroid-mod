@@ -1,0 +1,87 @@
+{
+"sunucuIsmi" : "✫ A S T E R O I D",
+"sunucuUfakIsim": "Valancia",
+"Tag": "✫",
+"IkinciTag": "§ ",
+"yasakTaglar": [],
+"sunucuDavetLinki": "https://discord.gg/UTJf59FPey",
+"embedUfakResim": "",
+"Kanallar": {
+    "kayitSonrasi": "842429500313829406",
+    "banLogKanali": "846401664268238848",
+    "kickLogKanali": "846401684812857384",
+    "jailLogKanali": "846401706925228082",
+    "supheliLogKanali": "848298783891914774",
+    "yasakliTagLogKanali": "848298783891914774",
+    "muteLogKanali": "846401684812857384",
+    "sesmuteLogKanali": "846401684812857384",
+    "uyarıLogKanali": "846401745395646464",
+    "tagLogKanali": "847430298912555028",
+    "chatKanali": "842429500313829406",
+    "kurallarKanal": "842641001042149376",
+    "mesajLogKanali": "846405714712068146",
+    "sesLogKanali": "842641175378395157"
+},
+
+"hosgeldinSistemi": {
+    "webhookID": "",
+    "webhookTOKEN": ""
+},
+"RolLog": {
+    "webhookID":"",
+    "webhookTOKEN":""
+},
+
+"Roller": {
+    "botcuRolu": "848299296667598879",
+    "kurucuRolu": "846306314652352528",
+    "altKurucuRolu": "846306314652352525",
+    "yonetimRolu": "846306314652352523",
+    "boosterRolu": "847519545048825966",
+    "muteRolu": "846306314577379337",
+    "jailRolu": "846306314577379336",
+    "supheliRolu": "846306314577379336",
+    "yasakliTagRolu": "846306314577379335",
+    "istatistikciRolleri": ["846306314597433387"],
+    "botCommand": ["846306314590224388"],
+    "warnHammer": ["846306314590224390"],
+    "muteHammer": ["846306314590224391"],
+    "voiceMuteHammer": ["846306314590224391"],
+    "jailHammer": ["846306314590224391"],
+    "banHammer": ["846306314590224392"],
+    "roleManager": ["846306314597433393"],
+    "vipRolu": "846306314564534301"
+},
+"Yetenek": {
+    "vokalRolu": "846306314544349231",
+    "müzisyenRolu": "846306314544349233",
+    "yazılımcıRolu": "846306314544349230",
+    "tasarımcıRolu": "846306314555752460",
+    "ressamRolu": "846306314555752460",
+    "şairRolu": "846306314555752461"
+},
+"kayıtRolleri": {
+    "kayıtsızYapanRoller": ["842761605581373530"],
+    "kayıtYapanRoller": ["842761605581373530"],
+    "kayıtsızRolleri": ["842429386350657567"],
+    "tagRolu": "846306314577379329",
+    "erkekRolleri": ["842429382931906560","842429383742193724","842429382931906560"],
+    "kadinRolleri": ["842429381267030027","842429381829591111","842429382931906560"]
+},
+
+"Emojiler": {
+    "tag": "837239316790640730",
+    "Onay": "846332383749472256",
+    "Iptal": "846334321022205984",
+    "afkOldu": "",
+    "afkOlmadi": "",
+    "hosgeldinGif1": "",
+    "hosgeldinGif2": "",
+    "hosgeldinGif3": "",
+    "hosgeldinGif4": "",
+    "hosgeldinGif5": "",
+    "susturuldu": "837237878017753109",
+    "susturmakaldirildi": "848301377226014800",
+    "jailatildi": "848301222665519196"
+}
+}
